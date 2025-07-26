@@ -1,0 +1,21 @@
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 600px;
+}
+
+header {
+    background-color: rgb(211, 88, 209);
+    margin: 10px;
+    width: 250px;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+}
+
+li{
+    margin: 3px;
+}
