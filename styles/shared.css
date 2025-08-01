@@ -8,7 +8,6 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 15px 60px;
-    position: absolute;
     width:100%;
     top: 0;
     left: 0;
@@ -51,4 +50,22 @@ header ul {
 
 header li {
     margin-left: 20px;
+}
+
+
+
+#social-media-tab {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.social-media {
+    padding: 100px 60px;
+}
+
+.social-media img{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
 }
